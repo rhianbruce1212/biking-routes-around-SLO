@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-The site never presents private Strava activity data as public route information.
+The site may publish only route data from GPX files the owner explicitly approves for publication, and it must identify the route source.
 
 ## Workflow
 
